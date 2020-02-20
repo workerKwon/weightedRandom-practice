@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # weighted_random
 
 ## Project setup
@@ -30,5 +29,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # weightedRandom-practice
-I practice random based on weight
->>>>>>> 8fe78189f798d767fa8e71958f92f06e3365a9d2
+I practice random number based on weight
+
+7개의 숫자를 뽑아오는데, 중복되지 않는 수를 based on weight로 가져온다.
