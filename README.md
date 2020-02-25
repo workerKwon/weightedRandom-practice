@@ -29,6 +29,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # weightedRandom-practice
-I practice random number based on weight
+I practiced random number based on weight
 
-7개의 숫자를 뽑아오는데, 중복되지 않는 수를 based on weight로 가져온다.
+6개의 숫자를 뽑아오는데, 중복되지 않는 수를 based on weight로 가져온다.
+weight는 역대 당첨 번호를 기반으로 1 ~ 45 별로 각각 무게를 줬다.
